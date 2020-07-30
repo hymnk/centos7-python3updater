@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -ue
+set -u
 
 echo -n "Do you want to set the hostname? (Y/n)"
 read ans
